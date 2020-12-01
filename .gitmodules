@@ -52,3 +52,6 @@
 [submodule "6-Naniduan"]
 	path = 6-Naniduan
 	url = https://github.com/spbu-coding/6-Naniduan.git
+[submodule "6-pervomai"]
+	path = 6-pervomai
+	url = https://github.com/spbu-coding/6-pervomai.git
