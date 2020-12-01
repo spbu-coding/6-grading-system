@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "6-Naniduan"
+      - match:
           dependency_name: "6-Mishavint"
       - match:
           dependency_name: "6-michael555444"

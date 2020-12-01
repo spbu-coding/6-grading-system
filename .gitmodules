@@ -49,3 +49,6 @@
 [submodule "6-Mishavint"]
 	path = 6-Mishavint
 	url = https://github.com/spbu-coding/6-Mishavint.git
+[submodule "6-Naniduan"]
+	path = 6-Naniduan
+	url = https://github.com/spbu-coding/6-Naniduan.git
