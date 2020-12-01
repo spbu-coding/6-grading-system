@@ -19,3 +19,6 @@
 [submodule "6-esvault"]
 	path = 6-esvault
 	url = https://github.com/spbu-coding/6-esvault.git
+[submodule "6-fertmanasa"]
+	path = 6-fertmanasa
+	url = https://github.com/spbu-coding/6-fertmanasa.git
