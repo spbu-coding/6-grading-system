@@ -82,3 +82,6 @@
 [submodule "6-st085683"]
 	path = 6-st085683
 	url = https://github.com/spbu-coding/6-st085683.git
+[submodule "6-TimPushkin"]
+	path = 6-TimPushkin
+	url = https://github.com/spbu-coding/6-TimPushkin.git
