@@ -64,3 +64,6 @@
 [submodule "6-Ramazanov-Amir"]
 	path = 6-Ramazanov-Amir
 	url = https://github.com/spbu-coding/6-Ramazanov-Amir.git
+[submodule "6-rudolf101"]
+	path = 6-rudolf101
+	url = https://github.com/spbu-coding/6-rudolf101.git
