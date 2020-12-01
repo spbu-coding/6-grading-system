@@ -10,3 +10,6 @@
 [submodule "6-AShlegel"]
 	path = 6-AShlegel
 	url = https://github.com/spbu-coding/6-AShlegel.git
+[submodule "6-AzimMuradov"]
+	path = 6-AzimMuradov
+	url = https://github.com/spbu-coding/6-AzimMuradov.git
