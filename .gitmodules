@@ -70,3 +70,6 @@
 [submodule "6-ShishaK1N9"]
 	path = 6-ShishaK1N9
 	url = https://github.com/spbu-coding/6-ShishaK1N9.git
+[submodule "6-SlavaLatokhin"]
+	path = 6-SlavaLatokhin
+	url = https://github.com/spbu-coding/6-SlavaLatokhin.git
