@@ -43,3 +43,6 @@
 [submodule "6-MDubovik"]
 	path = 6-MDubovik
 	url = https://github.com/spbu-coding/6-MDubovik.git
+[submodule "6-michael555444"]
+	path = 6-michael555444
+	url = https://github.com/spbu-coding/6-michael555444.git
