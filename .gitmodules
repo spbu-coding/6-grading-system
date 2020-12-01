@@ -4,3 +4,6 @@
 [submodule "6-AndreyBryns"]
 	path = 6-AndreyBryns
 	url = https://github.com/spbu-coding/6-AndreyBryns.git
+[submodule "6-artmotika"]
+	path = 6-artmotika
+	url = https://github.com/spbu-coding/6-artmotika.git
