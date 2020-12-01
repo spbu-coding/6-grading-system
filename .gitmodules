@@ -37,3 +37,6 @@
 [submodule "6-kettlberry"]
 	path = 6-kettlberry
 	url = https://github.com/spbu-coding/6-kettlberry.git
+[submodule "6-Lev0nid"]
+	path = 6-Lev0nid
+	url = https://github.com/spbu-coding/6-Lev0nid.git
