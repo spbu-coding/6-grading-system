@@ -61,3 +61,6 @@
 [submodule "6-qsqnk"]
 	path = 6-qsqnk
 	url = https://github.com/spbu-coding/6-qsqnk.git
+[submodule "6-Ramazanov-Amir"]
+	path = 6-Ramazanov-Amir
+	url = https://github.com/spbu-coding/6-Ramazanov-Amir.git
