@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "6-st085683"
+      - match:
           dependency_name: "6-SofuriHafe"
       - match:
           dependency_name: "6-smmac72"
