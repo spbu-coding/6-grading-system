@@ -40,3 +40,6 @@
 [submodule "6-Lev0nid"]
 	path = 6-Lev0nid
 	url = https://github.com/spbu-coding/6-Lev0nid.git
+[submodule "6-MDubovik"]
+	path = 6-MDubovik
+	url = https://github.com/spbu-coding/6-MDubovik.git
