@@ -25,3 +25,6 @@
 [submodule "6-foreverjun"]
 	path = 6-foreverjun
 	url = https://github.com/spbu-coding/6-foreverjun.git
+[submodule "6-IAmFunkyFrog"]
+	path = 6-IAmFunkyFrog
+	url = https://github.com/spbu-coding/6-IAmFunkyFrog.git

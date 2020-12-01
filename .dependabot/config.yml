@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "6-IAmFunkyFrog"
+      - match:
           dependency_name: "6-foreverjun"
       - match:
           dependency_name: "6-fertmanasa"
