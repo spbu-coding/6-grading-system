@@ -22,3 +22,6 @@
 [submodule "6-fertmanasa"]
 	path = 6-fertmanasa
 	url = https://github.com/spbu-coding/6-fertmanasa.git
+[submodule "6-foreverjun"]
+	path = 6-foreverjun
+	url = https://github.com/spbu-coding/6-foreverjun.git
