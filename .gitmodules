@@ -31,3 +31,6 @@
 [submodule "6-IlyaMuravjov"]
 	path = 6-IlyaMuravjov
 	url = https://github.com/spbu-coding/6-IlyaMuravjov.git
+[submodule "6-IraSheremet"]
+	path = 6-IraSheremet
+	url = https://github.com/spbu-coding/6-IraSheremet.git
