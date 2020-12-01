@@ -58,3 +58,6 @@
 [submodule "6-PyRayman"]
 	path = 6-PyRayman
 	url = https://github.com/spbu-coding/6-PyRayman.git
+[submodule "6-qsqnk"]
+	path = 6-qsqnk
+	url = https://github.com/spbu-coding/6-qsqnk.git
