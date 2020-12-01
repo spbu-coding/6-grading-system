@@ -1,3 +1,6 @@
 [submodule "6-grading-tests"]
 	path = 6-grading-tests
 	url = https://github.com/spbu-coding/6-grading-tests.git
+[submodule "6-AndreyBryns"]
+	path = 6-AndreyBryns
+	url = https://github.com/spbu-coding/6-AndreyBryns.git
