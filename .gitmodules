@@ -73,3 +73,6 @@
 [submodule "6-SlavaLatokhin"]
 	path = 6-SlavaLatokhin
 	url = https://github.com/spbu-coding/6-SlavaLatokhin.git
+[submodule "6-smmac72"]
+	path = 6-smmac72
+	url = https://github.com/spbu-coding/6-smmac72.git
