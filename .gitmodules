@@ -94,3 +94,6 @@
 [submodule "6-zishkaz"]
 	path = 6-zishkaz
 	url = https://github.com/spbu-coding/6-zishkaz.git
+[submodule "6-maria-atmazhitova"]
+	path = 6-maria-atmazhitova
+	url = https://github.com/spbu-coding/6-maria-atmazhitova.git
