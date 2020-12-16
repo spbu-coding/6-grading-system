@@ -5,6 +5,8 @@ update_configs:
     update_schedule: "daily"
     allowed_updates:
       - match:
+          dependency_name: "6-baranov1dragonsuper"
+      - match:
           dependency_name: "6-maria-atmazhitova"
       - match:
           dependency_name: "6-zishkaz"

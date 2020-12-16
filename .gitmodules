@@ -97,3 +97,6 @@
 [submodule "6-maria-atmazhitova"]
 	path = 6-maria-atmazhitova
 	url = https://github.com/spbu-coding/6-maria-atmazhitova.git
+[submodule "6-baranov1dragonsuper"]
+	path = 6-baranov1dragonsuper
+	url = https://github.com/spbu-coding/6-baranov1dragonsuper.git
