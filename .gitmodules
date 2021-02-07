@@ -100,3 +100,6 @@
 [submodule "6-baranov1dragonsuper"]
 	path = 6-baranov1dragonsuper
 	url = https://github.com/spbu-coding/6-baranov1dragonsuper.git
+[submodule "6-AlexanderRunov"]
+	path = 6-AlexanderRunov
+	url = https://github.com/spbu-coding/6-AlexanderRunov.git
