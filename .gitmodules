@@ -103,3 +103,6 @@
 [submodule "6-AlexanderRunov"]
 	path = 6-AlexanderRunov
 	url = https://github.com/spbu-coding/6-AlexanderRunov.git
+[submodule "6-MeviusS"]
+	path = 6-MeviusS
+	url = https://github.com/spbu-coding/6-MeviusS.git
