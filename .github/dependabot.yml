@@ -1,0 +1,47 @@
+version: 2
+updates:
+- package-ecosystem: gitsubmodule
+  directory: "/."
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 50
+  allow:
+  - dependency-name: 6-MeviusS
+  - dependency-name: 6-AlexanderRunov
+  - dependency-name: 6-baranov1dragonsuper
+  - dependency-name: 6-maria-atmazhitova
+  - dependency-name: 6-zishkaz
+  - dependency-name: 6-ViktorKarasss
+  - dependency-name: 6-Tizain
+  - dependency-name: 6-TimPushkin
+  - dependency-name: 6-st085683
+  - dependency-name: 6-SofuriHafe
+  - dependency-name: 6-smmac72
+  - dependency-name: 6-SlavaLatokhin
+  - dependency-name: 6-ShishaK1N9
+  - dependency-name: 6-rudolf101
+  - dependency-name: 6-Ramazanov-Amir
+  - dependency-name: 6-qsqnk
+  - dependency-name: 6-PyRayman
+  - dependency-name: 6-pervomai
+  - dependency-name: 6-Naniduan
+  - dependency-name: 6-Mishavint
+  - dependency-name: 6-michael555444
+  - dependency-name: 6-MDubovik
+  - dependency-name: 6-Lev0nid
+  - dependency-name: 6-kettlberry
+  - dependency-name: 6-IraSheremet
+  - dependency-name: 6-IlyaMuravjov
+  - dependency-name: 6-IAmFunkyFrog
+  - dependency-name: 6-foreverjun
+  - dependency-name: 6-fertmanasa
+  - dependency-name: 6-esvault
+  - dependency-name: 6-danielsheh02
+  - dependency-name: 6-AzimMuradov
+  - dependency-name: 6-AShlegel
+  - dependency-name: 6-artmotika
+  - dependency-name: 6-AndreyBryns
+  ignore:
+  - dependency-name: 6-grading-tests
+    versions:
+    - ">= 0"
